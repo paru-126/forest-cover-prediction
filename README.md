@@ -50,15 +50,15 @@ The dataset was provided by the U.S. Forest Service and includes the following f
 
 forest-cover-prediction/
 │
-├── train.csv # Dataset
+├── train.csv **# Dataset**
 
-├── forest_cover_prediction.py # Main script
+├── forest_cover_prediction.py **# Main script**
 
-├── model.pkl # Saved model after training
+├── model.pkl **# Saved model after training**
 
-├── requirements.txt # Python package requirements
+├── requirements.txt **# Python package requirements**
 
-└── README.md # Project documentation
+└── README.md **# Project documentation**
 
 ## To Run the Project
  -python forest_cover_prediction.py
